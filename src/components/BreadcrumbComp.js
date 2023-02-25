@@ -1,5 +1,4 @@
 import React from 'react';
-import './BreadcrumbComp.css';
 
 const BreadcrumbComp = (props) => {
   const { handleOnSubmitSearchForm } = props;
