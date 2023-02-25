@@ -13,7 +13,7 @@ const BreadcrumbComp = (props) => {
         <div className="row">
           <div className="col-lg-12">
             <div className="breadcrumb-inner">
-              <h1 className="page-title">Search for a recipe</h1>
+              <h1 className="page-title">Search For A Recipe</h1>
             </div>
           </div>
         </div>

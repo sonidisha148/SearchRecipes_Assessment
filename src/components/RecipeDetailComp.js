@@ -5,7 +5,7 @@ const RecipeDetailComp = (props) => {
   const { recipeDetails } = props;
   return (
     <div>
-      <h4 className="title">Cooking instructions</h4>
+      <h4 className="title">Cooking Instructions</h4>
       <p dangerouslySetInnerHTML={{ __html: recipeDetails.instructions }}></p>
     </div>
   );
