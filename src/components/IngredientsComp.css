@@ -1,0 +1,30 @@
+.ingredients-detail-info-list { background-color: var(--section-bg-1); }
+.ingredients-detail-info-list ul {
+  padding: 30px 30px 10px 30px;
+  isplay: block;
+    width: 100%;
+    margin: 0;
+    float: left;
+  }
+  
+    .ingredients-detail-info-list ul li {
+      display: inline-block;
+    width: 33%;
+    margin-top: 0;
+    margin-bottom: 20px;
+    vertical-align: top; }
+      .ingredients-detail-info-list ul li label {
+        margin-right: 5px;
+        font-weight: 600;
+        min-width: 110px;
+        display: inline-block; }
+      .ingredients-detail-info-list ul li span {
+        font-weight: 600;
+        display: block;
+        color: var(--heading-color); }
+        @media (min-width:577px) and (max-width: 992px) {
+          .ingredients-detail-info-list ul li { width: 50%; }
+        }
+        @media (max-width: 576px) {
+          .ingredients-detail-info-list ul li { width: 100%; }
+        }
