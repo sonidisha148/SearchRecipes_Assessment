@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/SearchRecipes_Assessment/static/css/main.feaa9fa3.css",
-    "main.js": "/SearchRecipes_Assessment/static/js/main.cfb3e07c.js",
+    "main.js": "/SearchRecipes_Assessment/static/js/main.4c99e4c2.js",
     "static/js/787.1dfa93cc.chunk.js": "/SearchRecipes_Assessment/static/js/787.1dfa93cc.chunk.js",
     "index.html": "/SearchRecipes_Assessment/index.html",
     "main.feaa9fa3.css.map": "/SearchRecipes_Assessment/static/css/main.feaa9fa3.css.map",
-    "main.cfb3e07c.js.map": "/SearchRecipes_Assessment/static/js/main.cfb3e07c.js.map",
+    "main.4c99e4c2.js.map": "/SearchRecipes_Assessment/static/js/main.4c99e4c2.js.map",
     "787.1dfa93cc.chunk.js.map": "/SearchRecipes_Assessment/static/js/787.1dfa93cc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feaa9fa3.css",
-    "static/js/main.cfb3e07c.js"
+    "static/js/main.4c99e4c2.js"
   ]
 }
