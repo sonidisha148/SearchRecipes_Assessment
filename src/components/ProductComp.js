@@ -9,13 +9,13 @@ const ProductComp = (props) => {
     <div>
       <div className="product-item">
         <div className="product-img">
-          <a href={`/SearchRecipes/#/recipe-detail/${recipe.id}`}>
+          <a href={`/SearchRecipes_Assessment/#/recipe-detail/${recipe.id}`}>
             <img src={recipe.image} alt="#" />
           </a>
         </div>
         <div className="product-info">
           <h2 className="product-title">
-            <a href={`/SearchRecipes/#/recipe-detail/${recipe.id}`}>{recipe.title}</a>
+            <a href={`/SearchRecipes_Assessment/#/recipe-detail/${recipe.id}`}>{recipe.title}</a>
           </h2>
         </div>
       </div>

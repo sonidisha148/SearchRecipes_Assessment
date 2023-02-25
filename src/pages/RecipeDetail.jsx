@@ -32,7 +32,7 @@ const RecipeDetail = () => {
           <div className="col-lg-12">
             {recipeDetails.id ? (
               <>
-                <a href="/SearchRecipes/#">Back</a>
+                <a href="/SearchRecipes_Assessment/#">Back</a>
                 <h1 className="mb-30">{recipeDetails.title}</h1>
                 <RecipeDetailComp recipeDetails={recipeDetails} />
                 <IngredientsComp recipeDetails={recipeDetails} />

@@ -1,6 +1,6 @@
 {
-  "name": "searchrecipes",
-  "homepage": "http://sonidisha148.github.io/SearchRecipes",
+  "name": "searchrecipes_assessment",
+  "homepage": "http://sonidisha148.github.io/SearchRecipes_Assessment",
   "version": "0.1.0",
   "private": false,
   "dependencies": {
